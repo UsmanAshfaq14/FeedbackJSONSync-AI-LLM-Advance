@@ -8,7 +8,7 @@
 
 - **Project Name:** FeedbackJSONSync-AI  
 - **Version:** 1.0.0  
-- **Author:** Feedback Team  
+- **Author:** Usman Ashfaq  
 - **Keywords:** Customer Feedback, Translation, Sentiment Analysis, Data Validation, JSON Conversion
 
 ## Features
